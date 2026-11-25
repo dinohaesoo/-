@@ -3,11 +3,6 @@
 Многоклассовая классификация погоды (5 классов) по метеоданным за 2012–2015 гг.
 EDA, сравнение 8 алгоритмов, работа с дисбалансом классов, анализ ошибок.
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3+-orange)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-yellow)
-![Status](https://img.shields.io/badge/status-completed-green)
-
 ## Задача
 
 По ежедневным метеонаблюдениям в Сиэтле определить тип погоды: `rain`, `sun`, `fog`, `drizzle`, `snow`.
